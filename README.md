@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=whoistaiza" />
 </div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=whoistaiza" />
-</div>
