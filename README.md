@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/whoistaiza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=whoistaiza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabrielNunes&layout=compact&langs_count=7&theme=dark"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoistaiza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
