@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/whoistaiza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=whoistaiza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=whoistaiza&show_icons=true&theme=dark&hide=stars,issues&&count_private=true" />
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=whoistaiza" />
