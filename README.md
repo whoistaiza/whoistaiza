@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/whoistaiza">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=whoistaiza&show_icons=true&theme=dark&hide=stars,issues&&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=whoistaiza&show_icons=true&theme=dark&hide=stars,issues&&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=whoistaiza" />
 </div>
